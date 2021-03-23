@@ -8,9 +8,36 @@
     <language>en</language>
     <lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jamalxo.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>university</title>
+      <link>https://jamalxo.github.io/categories/university/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamalxo.github.io/categories/university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>master</title>
+      <link>https://jamalxo.github.io/categories/master/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamalxo.github.io/categories/master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>https://jamalxo.github.io/categories/project/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamalxo.github.io/categories/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>syntax</title>
       <link>https://jamalxo.github.io/categories/syntax/</link>
-      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jamalxo.github.io/categories/syntax/</guid>
       <description></description>
@@ -19,9 +46,27 @@
     <item>
       <title>themes</title>
       <link>https://jamalxo.github.io/categories/themes/</link>
-      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jamalxo.github.io/categories/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bachelor</title>
+      <link>https://jamalxo.github.io/categories/bachelor/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamalxo.github.io/categories/bachelor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thesis</title>
+      <link>https://jamalxo.github.io/categories/thesis/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamalxo.github.io/categories/thesis/</guid>
       <description></description>
     </item>
     

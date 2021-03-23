@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open source on Website of Jamal Sohail</title>
+    <link>https://jamalxo.github.io/tags/open-source/</link>
+    <description>Recent content in open source on Website of Jamal Sohail</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://jamalxo.github.io/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bachelor Thesis</title>
+      <link>https://jamalxo.github.io/post/bachelor-thesis/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamalxo.github.io/post/bachelor-thesis/</guid>
+      <description>Problem Extend SGPP pipeline and develop embedded image classificator based on it.
+Requirement Analysis Mockups Implementation Conclusion </description>
+    </item>
+    
+  </channel>
+</rss>

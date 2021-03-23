@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>agile on Website of Jamal Sohail</title>
+    <link>https://jamalxo.github.io/tags/agile/</link>
+    <description>Recent content in agile on Website of Jamal Sohail</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jamalxo.github.io/tags/agile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Connotate - Master Project</title>
+      <link>https://jamalxo.github.io/post/connotate/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamalxo.github.io/post/connotate/</guid>
+      <description>Problem Develop application for lawyers to collaborate on one Terms of Service document. Makes Google Docs unnecessary.
+Requirement Analysis Mockups Implementation Conclusion </description>
+    </item>
+    
+    <item>
+      <title>PlayPal - Master Project</title>
+      <link>https://jamalxo.github.io/post/playpal/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamalxo.github.io/post/playpal/</guid>
+      <description>Problem Develop business idea from scratch.
+Requirement Analysis Mockups Implementation Conclusion </description>
+    </item>
+    
+    <item>
+      <title>iPraktikum</title>
+      <link>https://jamalxo.github.io/post/ios/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamalxo.github.io/post/ios/</guid>
+      <description>Problem Medical application help doctors detect ACL rupture and track progress.
+Requirement Analysis Mockups Implementation Conclusion </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,29 +6,83 @@
     <description>Recent content in Tags on Website of Jamal Sohail</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Mar 2021 21:47:41 +0000</lastBuildDate><atom:link href="https://jamalxo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jamalxo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>demo</title>
-      <link>https://jamalxo.github.io/tags/demo/</link>
-      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      <title>agile</title>
+      <link>https://jamalxo.github.io/tags/agile/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jamalxo.github.io/tags/demo/</guid>
+      <guid>https://jamalxo.github.io/tags/agile/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>shortcode</title>
-      <link>https://jamalxo.github.io/tags/shortcode/</link>
-      <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
+      <title>angular</title>
+      <link>https://jamalxo.github.io/tags/angular/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://jamalxo.github.io/tags/shortcode/</guid>
+      <guid>https://jamalxo.github.io/tags/angular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mongodb</title>
+      <link>https://jamalxo.github.io/tags/mongodb/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamalxo.github.io/tags/mongodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nodejs</title>
+      <link>https://jamalxo.github.io/tags/nodejs/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamalxo.github.io/tags/nodejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>react</title>
+      <link>https://jamalxo.github.io/tags/react/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamalxo.github.io/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>augmented reality</title>
+      <link>https://jamalxo.github.io/tags/augmented-reality/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamalxo.github.io/tags/augmented-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swift</title>
+      <link>https://jamalxo.github.io/tags/swift/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamalxo.github.io/tags/swift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swiftUI</title>
+      <link>https://jamalxo.github.io/tags/swiftui/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamalxo.github.io/tags/swiftui/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
       <link>https://jamalxo.github.io/tags/css/</link>
-      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jamalxo.github.io/tags/css/</guid>
       <description></description>
@@ -37,7 +91,7 @@
     <item>
       <title>html</title>
       <link>https://jamalxo.github.io/tags/html/</link>
-      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jamalxo.github.io/tags/html/</guid>
       <description></description>
@@ -46,54 +100,45 @@
     <item>
       <title>markdown</title>
       <link>https://jamalxo.github.io/tags/markdown/</link>
-      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jamalxo.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>privacy</title>
-      <link>https://jamalxo.github.io/tags/privacy/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>android</title>
+      <link>https://jamalxo.github.io/tags/android/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jamalxo.github.io/tags/privacy/</guid>
+      <guid>https://jamalxo.github.io/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>shortcodes</title>
-      <link>https://jamalxo.github.io/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>c&#43;&#43;</title>
+      <link>https://jamalxo.github.io/tags/c&#43;&#43;/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jamalxo.github.io/tags/shortcodes/</guid>
+      <guid>https://jamalxo.github.io/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>text</title>
-      <link>https://jamalxo.github.io/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>machine learning</title>
+      <link>https://jamalxo.github.io/tags/machine-learning/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jamalxo.github.io/tags/text/</guid>
+      <guid>https://jamalxo.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>emoji</title>
-      <link>https://jamalxo.github.io/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <title>open source</title>
+      <link>https://jamalxo.github.io/tags/open-source/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jamalxo.github.io/tags/emoji/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>thumbnail</title>
-      <link>https://jamalxo.github.io/tags/thumbnail/</link>
-      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jamalxo.github.io/tags/thumbnail/</guid>
+      <guid>https://jamalxo.github.io/tags/open-source/</guid>
       <description></description>
     </item>
     
