@@ -1,1 +1,0 @@
-# jamalxo.github.io
