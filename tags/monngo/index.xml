@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>nodejs on Website of Jamal Sohail</title>
-    <link>https://jamalxo.github.io/tags/nodejs/</link>
-    <description>Recent content in nodejs on Website of Jamal Sohail</description>
+    <title>monngo on Website of Jamal Sohail</title>
+    <link>https://jamalxo.github.io/tags/monngo/</link>
+    <description>Recent content in monngo on Website of Jamal Sohail</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jamalxo.github.io/tags/nodejs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jamalxo.github.io/tags/monngo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MEAN Template</title>
       <link>https://jamalxo.github.io/post/mean/</link>
@@ -16,16 +16,6 @@
       <description>Medical application to help doctors detect ACL ruptures for patients. Also tracks progress of patients with different treatment strategies.
 Client Acceptance Test   AR View  AR View
   Medical application to help doctors detect ACL ruptures for patients. Also tracks progress of patients with different treatment strategies.Medical application to help doctors detect ACL ruptures for patients. Also tracks progress of patients with different treatment strategies.Medical application to help doctors detect ACL ruptures for patients. Also tracks progress of patients with different treatment strategies.Medical application to help doctors detect ACL ruptures for patients. Also tracks progress of patients with different treatment strategies.</description>
-    </item>
-    
-    <item>
-      <title>PlayPal - Master Project</title>
-      <link>https://jamalxo.github.io/post/playpal/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jamalxo.github.io/post/playpal/</guid>
-      <description>Problem Develop business idea from scratch.
-Requirement Analysis Mockups Implementation Conclusion </description>
     </item>
     
   </channel>

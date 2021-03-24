@@ -17,20 +17,29 @@
     </item>
     
     <item>
-      <title>master</title>
-      <link>https://jamalxo.github.io/categories/master/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <title>personal</title>
+      <link>https://jamalxo.github.io/categories/personal/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jamalxo.github.io/categories/master/</guid>
+      <guid>https://jamalxo.github.io/categories/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project</title>
       <link>https://jamalxo.github.io/categories/project/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jamalxo.github.io/categories/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>master</title>
+      <link>https://jamalxo.github.io/categories/master/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jamalxo.github.io/categories/master/</guid>
       <description></description>
     </item>
     
