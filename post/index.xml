@@ -28,7 +28,9 @@ Home Page   Home
       
       <guid>https://jamalxo.github.io/post/swift/</guid>
       <description>Compile Swift code in a web application
-Requirement Analysis Mockups Implementation Conclusion </description>
+View  Web Application Swift Compiler
+  _
+Small project I did on the side that compiles Swift code. The compiler also shows the live output of the console.</description>
     </item>
     
     <item>
