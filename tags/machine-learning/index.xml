@@ -14,7 +14,8 @@
       
       <guid>https://jamalxo.github.io/post/bachelor-thesis/</guid>
       <description>Abstract  Prediction of number in an android application
-  The thesis describes the integration of the geometry aware sparse grids into thedatamining
+  
+The thesis describes the integration of the geometry aware sparse grids into thedatamining
 pipeline of the SG++ framework. The datamining pipeline is used tomake SG++ easier available and fasten the process of using the framework. Geometryaware sparse grids have a great use in image classification and therefore this thesis isadditionally about creating a mobile application that classifies hand drawn numbersusing this kind of sparse grids. For this to be done the trained data had to be exportedfrom SG++ and then imported again into the application. Also the evaluation method for sparse grids was implemented into the application.</description>
     </item>
     

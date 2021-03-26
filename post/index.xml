@@ -12,8 +12,13 @@
       <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jamalxo.github.io/post/connotate/</guid>
-      <description>Problem Develop application for lawyers to collaborate on one Terms of Service document. Makes Google Docs unnecessary.
-Requirement Analysis Mockups Implementation Conclusion </description>
+      <description>Application for lawyers to collaborate analyzing Terms of Service documents. Makes Google Docs unnecessary.
+Editor   Editor - Whatsapp Example
+  The heart piece of the application is the editor where several users can create sections of the document and afterwards annotate them. An annotation can be a label or a legal opinion. Lastly users can also discuss, like and comment on all annotation made in the document.
+Login Page   Login
+  The authentication is done via JWT. There&amp;rsquo;s not much to tell here besides the original design.
+Home Page   Home
+  The home page displays all previous visited documents, the status of your uploaded documents and also the task you have been assigned by other lawyers</description>
     </item>
     
     <item>
@@ -63,7 +68,8 @@ Client Acceptance Test   AR View  AR View
       
       <guid>https://jamalxo.github.io/post/bachelor-thesis/</guid>
       <description>Abstract  Prediction of number in an android application
-  The thesis describes the integration of the geometry aware sparse grids into thedatamining
+  
+The thesis describes the integration of the geometry aware sparse grids into thedatamining
 pipeline of the SG++ framework. The datamining pipeline is used tomake SG++ easier available and fasten the process of using the framework. Geometryaware sparse grids have a great use in image classification and therefore this thesis isadditionally about creating a mobile application that classifies hand drawn numbersusing this kind of sparse grids. For this to be done the trained data had to be exportedfrom SG++ and then imported again into the application. Also the evaluation method for sparse grids was implemented into the application.</description>
     </item>
     
